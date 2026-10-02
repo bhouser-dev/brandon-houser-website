@@ -36,7 +36,8 @@ export function CallingCard() {
         </h2>
         <p className="mt-3 text-pretty leading-relaxed text-slate-200">
           Work full time while continuing to invest in Cybersecurity learning and
-          hands-on experience to get my foot in the door.
+          hands-on experience to transition my knowledge to meaningful team
+          contributions.
         </p>
       </section>
 
@@ -48,9 +49,12 @@ export function CallingCard() {
           More about me
         </h2>
         <p className="mt-3 text-pretty leading-relaxed text-slate-200">
-          I am a Cybersecurity graduate with a completed project in college, as
-          well as various forms of hands-on technical experience. I am enthusiastically
-          seeking an entry-level position to begin my Cybersecurity career.
+          I am a Cybersecurity graduate with a completed project demonstrating my
+          understanding in Linux principles. Additionally, I hold practical
+          experience through Hack the Box and CompTIA Security+ labs. Along with
+          this, I have a CompTIA certificate proving my networking lab
+          experience. I am enthusiastically seeking to make a difference with my
+          technical skills.
         </p>
       </section>
 
