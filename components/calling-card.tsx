@@ -54,7 +54,7 @@ export function CallingCard() {
           experience through Hack the Box and CompTIA Security+ labs. Along with
           this, I have a CompTIA certificate proving my networking lab
           experience. I am enthusiastically seeking to make a difference with my
-          technical experience.
+          technical skills.
         </p>
       </section>
 
