@@ -5,7 +5,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Brandon Houser — Cybersecurity',
   description:
-    'Cybersecurity graduate seeking an entry-level position to begin a Cybersecurity career.',
+    'Cybersecurity graduate with hands-on Linux, Hack the Box, and CompTIA lab experience, seeking to make a difference with technical experience.',
   generator: 'v0.app',
   icons: {
     icon: [
